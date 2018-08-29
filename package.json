@@ -1,0 +1,11 @@
+{
+  "name": "try-use-express",
+  "version": "1.0.0",
+  "description": "a simple use of express for education",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "third-meow",
+  "license": "ISC"
+}
