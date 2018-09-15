@@ -1,4 +1,6 @@
+const wSocket = require('ws');
+const ws = new wSocket('path-to-host');
 
-window.onload = function(){
-  document.write("hello world");
-}
+ws.on('message', function(data){
+  document.write(data);
+});
