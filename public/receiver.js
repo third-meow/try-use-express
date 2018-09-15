@@ -1,4 +1,4 @@
 
 window.onload = function(){
-  document.wirte("hello world");
+  document.write("hello world");
 }
